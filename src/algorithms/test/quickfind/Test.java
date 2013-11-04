@@ -8,4 +8,7 @@ package algorithms.test.quickfind;
  * To change this template use File | Settings | File Templates.
  */
 public class Test {
+    public static void main(String ... args){
+
+    }
 }
