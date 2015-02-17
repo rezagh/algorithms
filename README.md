@@ -1,1 +1,1 @@
-Implementation of few algorithms
+Implementation of few simple algorithms from a course
