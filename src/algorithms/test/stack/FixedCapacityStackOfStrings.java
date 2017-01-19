@@ -1,4 +1,4 @@
-package algorithms.test.quickfind.algorithms.test.stack;
+package algorithms.test.stack;
 
 /**
  * stack implementation with a fixed size array
@@ -19,11 +19,19 @@ public class FixedCapacityStackOfStrings {
     }
 
     public String pop(){
-        String item = items[pointer];
+    	if(pointer == 0) {
+    		System.out.println("stack is empty.");
+    		return null;
+    	}
+    	String item = items[pointer];
 
         items[pointer] = null;
         pointer -= 1;
         return item;
 
+    }
+    
+    public int size(){
+    	return pointer;
     }
 }

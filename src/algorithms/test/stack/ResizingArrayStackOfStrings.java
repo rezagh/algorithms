@@ -1,4 +1,4 @@
-package algorithms.test.quickfind.algorithms.test.stack;
+package algorithms.test.stack;
 
 /**
  * when the array is full then we create a new one with double the size and copy items in it.

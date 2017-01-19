@@ -1,4 +1,4 @@
-package algorithms.test.quickfind;
+package algorithms.test.search;
 
 /**
  * Created with IntelliJ IDEA.

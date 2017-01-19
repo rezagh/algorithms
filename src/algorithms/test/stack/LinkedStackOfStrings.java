@@ -1,11 +1,10 @@
-package algorithms.test.quickfind.algorithms.test.stack;
+package algorithms.test.stack;
 
 /**
- * Created with IntelliJ IDEA.
+ * Stack using linked list or linked stack.
+ * 
  * User: rezaghafari
  * Date: 8/11/2013
- * Time: 9:41 AM
- * To change this template use File | Settings | File Templates.
  */
 public class LinkedStackOfStrings {
 

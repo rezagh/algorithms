@@ -1,4 +1,4 @@
-package algorithms.test.quickfind.algorithms.test.stack;
+package algorithms.test.stack;
 
 import junit.framework.Assert;
 import org.junit.Test;

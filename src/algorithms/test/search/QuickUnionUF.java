@@ -1,4 +1,4 @@
-package algorithms.test.quickfind;
+package algorithms.test.search;
 
 /**
  * id[i] is the parent of i

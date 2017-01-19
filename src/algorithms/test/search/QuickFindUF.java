@@ -1,4 +1,4 @@
-package algorithms.test.quickfind;
+package algorithms.test.search;
 /**
  * 
  * eager algo for dynamic connectivity problem or union find problem

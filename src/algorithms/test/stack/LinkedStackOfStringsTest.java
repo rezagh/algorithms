@@ -1,14 +1,12 @@
-package algorithms.test.quickfind.algorithms.test.stack;
+package algorithms.test.stack;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created with IntelliJ IDEA.
  * User: rezaghafari
  * Date: 8/11/2013
  * Time: 9:43 AM
- * To change this template use File | Settings | File Templates.
  */
 public class LinkedStackOfStringsTest {
 

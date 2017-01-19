@@ -1,6 +1,7 @@
-package algorithms.test.quickfind.algorithms.test.stack;
+package algorithms.test.stack;
 
-import junit.framework.Assert;
+
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
@@ -11,8 +12,8 @@ import org.junit.Test;
 public class FixedCapacityStackOfStringsTest {
     @Test
     public void test(){
-        FixedCapacityStackOfStrings test = new FixedCapacityStackOfStrings(4);
-        test.push("a");
-        Assert.assertEquals("a",test.pop());
+        FixedCapacityStackOfStrings myStack = new FixedCapacityStackOfStrings(4);
+        myStack.push("a");
+        Assert.assertTrue(myStack.size() == 1);
     }
 }

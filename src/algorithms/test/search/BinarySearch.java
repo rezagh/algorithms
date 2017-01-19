@@ -1,4 +1,4 @@
-package algorithms.test.quickfind;
+package algorithms.test.search;
 
 import java.util.Arrays;
 

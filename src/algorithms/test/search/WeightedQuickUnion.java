@@ -1,4 +1,4 @@
-package algorithms.test.quickfind;
+package algorithms.test.search;
 
 /**
  * some improvements onver quick union
