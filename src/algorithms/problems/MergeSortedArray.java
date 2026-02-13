@@ -1,4 +1,4 @@
-package algorithms.leetcode;
+package algorithms.problems;
 
 import org.junit.Test;
 import org.junit.Assert;

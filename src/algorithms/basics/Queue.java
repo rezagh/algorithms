@@ -1,4 +1,4 @@
-package algorithms.queue;
+package algorithms.basics;
 
 public interface Queue<E> { 
 	/** Returns the number of elements in the queue. */
